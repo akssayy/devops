@@ -103,13 +103,13 @@ Step 6: Connect to GitHub
 
 # Create a new empty GitHub repository:
 
-https://github.com/Akssayy47/devops_fat_2
+https://github.com/akssayy/devops
 
 # Then run:
 
 git branch -M main
 
-git remote add origin https://github.com/Akssayy47/devops_fat_2
+git remote add origin https://github.com/akssayy/devops
 
 3. How This Assignment Helps Me Learn DevOps, Linux, Git, and Docker
 
